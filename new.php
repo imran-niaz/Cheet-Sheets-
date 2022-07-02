@@ -1,3 +1,8 @@
+<?php
+get_called_class()
+>
+
+
 '
 ''
 `
