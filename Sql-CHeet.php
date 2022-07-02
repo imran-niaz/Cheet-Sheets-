@@ -37,3 +37,4 @@ sqlmap --method=PUT -u "http://example.com" --headers="referer:*"
 --auth-cred="<AUTH>" #HTTP authentication credentials (name:password)
 --proxy=http://127.0.0.1:8080
 --union-char "GsFRts2" #Help sqlmap identify union SQLi techniques with a weird union char
+xml_set_external_entity_ref_handler
